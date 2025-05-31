@@ -5,7 +5,7 @@ description = "Add your description here"
 requires-python = ">=3.13"
 dependencies = [
     "mpmath==1.4.0a5",
-    "networkx==3.5rc0",
+    "networkx==3.5",
     "numpy==2.3.0rc1",
     "typing-extensions==4.14.0rc1",
 ]
